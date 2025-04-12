@@ -1,7 +1,7 @@
 
 # Ignore backend
-02-backend/
-01-backend/
+# 02-backend/
+# 01-backend/
 
 # Dependencies
 node_modules/
